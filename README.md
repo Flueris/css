@@ -1,2 +1,2 @@
 # flueris-css
-Repository for flueris repository
+Repository for flueris css
